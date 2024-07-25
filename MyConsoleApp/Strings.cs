@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +23,18 @@ namespace MyConsoleApp
 
             //indexing
             //individual elements of a string can be acessed from indidaual indexes
-            Console.WriteLine(phrase[0]);//
+            Console.WriteLine(phrase[0]);//this acesses the first value of the string
+            Console.WriteLine(phrase.IndexOf("ay"));
+            Console.WriteLine(phrase.Substring(1, 1));//this in an index and returns the values after it.
+                                                      //i can also tke two arguments substring(staring index,number of characters after it  to return);
+
+
+
+
+
+
+
+
 
 
 
@@ -38,3 +49,4 @@ namespace MyConsoleApp
         }
     }
 }
+*/
