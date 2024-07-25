@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="numbers.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="datatypes.cs" />
     <Compile Include="variables.cs" />
