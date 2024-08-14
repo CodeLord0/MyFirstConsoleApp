@@ -44,7 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Calculator.cs" />
+    <Compile Include="Arrays.cs" />
+    <Compile Include="Calculatorv2.cs" />
+    <Compile Include="ConditionalContd.cs" />
+    <Compile Include="IfStatements.cs" />
+    <Compile Include="Methods.cs" />
     <Compile Include="Madlibgame.cs" />
+    <Compile Include="SwitchStatements.cs" />
     <Compile Include="Userinput.cs" />
     <Compile Include="numbers.cs" />
     <Compile Include="Program.cs" />
