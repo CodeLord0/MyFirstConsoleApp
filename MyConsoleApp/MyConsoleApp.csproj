@@ -47,10 +47,13 @@
     <Compile Include="Arrays.cs" />
     <Compile Include="Calculatorv2.cs" />
     <Compile Include="ConditionalContd.cs" />
+    <Compile Include="Forloops.cs" />
+    <Compile Include="Guessinggame.cs" />
     <Compile Include="IfStatements.cs" />
     <Compile Include="Methods.cs" />
     <Compile Include="Madlibgame.cs" />
     <Compile Include="SwitchStatements.cs" />
+    <Compile Include="Twodarray.cs" />
     <Compile Include="Userinput.cs" />
     <Compile Include="numbers.cs" />
     <Compile Include="Program.cs" />
@@ -58,6 +61,7 @@
     <Compile Include="variables.cs" />
     <Compile Include="Strings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WhileLoops.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
