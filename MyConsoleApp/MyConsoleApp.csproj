@@ -46,7 +46,10 @@
     <Compile Include="Calculator.cs" />
     <Compile Include="Arrays.cs" />
     <Compile Include="Calculatorv2.cs" />
+    <Compile Include="Book.cs" />
+    <Compile Include="Classes.cs" />
     <Compile Include="ConditionalContd.cs" />
+    <Compile Include="Exceptions.cs" />
     <Compile Include="Forloops.cs" />
     <Compile Include="Guessinggame.cs" />
     <Compile Include="IfStatements.cs" />
@@ -56,7 +59,7 @@
     <Compile Include="Twodarray.cs" />
     <Compile Include="Userinput.cs" />
     <Compile Include="numbers.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="indices.cs" />
     <Compile Include="datatypes.cs" />
     <Compile Include="variables.cs" />
     <Compile Include="Strings.cs" />

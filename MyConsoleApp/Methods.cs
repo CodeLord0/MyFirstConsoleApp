@@ -24,12 +24,15 @@ namespace MyConsoleApp
 
 
         // decleare a method
+        //void means  that the variable doesnt return a variable
+
         static void SayHi(string name, int age)
         {
 
             Console.WriteLine("hello " + name + " you are " + age);
         }
 
+        // this variable returns a 
         static int Cube(int num)
         {
             // return the value of an operation
