@@ -13,15 +13,9 @@ namespace MyConsoleApp
 
             // print out the value of cube
             Console.WriteLine(Cube(3));
-
-
-
             Console.ReadLine();
 
         }
-
-
-
 
         // decleare a method
         //void means  that the variable doesnt return a variable
@@ -32,12 +26,11 @@ namespace MyConsoleApp
             Console.WriteLine("hello " + name + " you are " + age);
         }
 
-        // this variable returns a 
+        // this variable returns a variable
         static int Cube(int num)
         {
             // return the value of an operation
             return num * num * num;
-
         }
 
 
