@@ -1,4 +1,4 @@
-﻿/*using System;
+﻿using System;
 
 namespace MyConsoleApp
 {
@@ -24,4 +24,4 @@ namespace MyConsoleApp
             Console.ReadLine();
         }
     }
-}*/
+}
