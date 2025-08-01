@@ -49,7 +49,7 @@ void Compute()
         Console.WriteLine("Entered desired range: ");
         Console.WriteLine("That was a direct hit");
         PlayerTwoInput = Console.ReadLine();
-        playerTwoGuess = Convert.ToInt32(PlayerTwoInput);
+        playerTwoGuess = Convert.ToInt32(PlayerTwoInput); 
     }
 
 
