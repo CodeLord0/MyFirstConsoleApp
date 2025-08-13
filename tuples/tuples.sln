@@ -1,8 +1,10 @@
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tuples", "tuples.csproj", "{2EB59FB9-D066-C27B-C8AC-8A503A9CD805}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "contructors_excersice", "..\contructors_excersice\contructors_excersice.csproj", "{E299174B-E67F-40BB-8452-96B5A944D158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,6 +16,10 @@ Global
 		{2EB59FB9-D066-C27B-C8AC-8A503A9CD805}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB59FB9-D066-C27B-C8AC-8A503A9CD805}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB59FB9-D066-C27B-C8AC-8A503A9CD805}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E299174B-E67F-40BB-8452-96B5A944D158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E299174B-E67F-40BB-8452-96B5A944D158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E299174B-E67F-40BB-8452-96B5A944D158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E299174B-E67F-40BB-8452-96B5A944D158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
