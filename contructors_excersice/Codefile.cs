@@ -13,8 +13,7 @@ System.Console.WriteLine("enter an arrowhead");
 varArrowhead = Console.ReadLine();
 
 
-Arrows UserArrow = new(varArrowhead, varFletching, 20);
-
+Arrows UserArrow = new(varArrowhead, varFletching, 20);//creates a new user
 
 
 
